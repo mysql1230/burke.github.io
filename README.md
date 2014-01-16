@@ -1,4 +1,4 @@
-gitstart.github.io
+Blog by GitHub Pages
 ==================
 
-My Blog by github pages
+Welcom to [Burke Blog](http://gitstart.github.io/)
